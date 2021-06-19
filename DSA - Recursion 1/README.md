@@ -55,6 +55,6 @@ array of all permutations of those integers in no particular order.
 
 If the input array is empty, the function should return an empty array.
 
-![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/tree/master/DSA%20-%20Recursion%201/Sample3.png?raw=true)
+![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/blob/master/DSA%20-%20Recursion%201/Sample3.png?raw=true)
 
 
