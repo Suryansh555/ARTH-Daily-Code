@@ -1,6 +1,6 @@
 # Topic - Recursion
 
-# Easy – Difficulty: Nth Fibonacci
+### Easy – Difficulty: Nth Fibonacci
 
 **Problem Statement:**
 
@@ -45,7 +45,7 @@ product sum of [x, [y, [z]]] is x + 2 * (y + 3z).
 ![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/blob/master/DSA%20-%20Recursion%201/Sample2.png?raw=true)
 
 
-## Medium – Difficulty: – Permutations
+### Medium – Difficulty: – Permutations
 
 **Problem Statement:**
 
