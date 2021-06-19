@@ -12,7 +12,7 @@ Important note: the Fibonacci sequence is often defined with its first two numbe
 F1= 1. For the purpose of this question, the first Fibonacci number is F0; therefore, getNthFib(1) is
 equal to F0, getNthFib(2) is equal to F1, etc..
 
-![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/tree/master/DSA%20-%20Recursion%201/Sample1.jpg?raw=true)
+![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/blob/master/DSA%20-%20Recursion%201/Sample1.png?raw=true)
 
 ### Easy – Difficulty: – Product Sum
 
@@ -42,7 +42,7 @@ product sum of [x, [y, z]] is x + 2 * (y + z); the
 
 product sum of [x, [y, [z]]] is x + 2 * (y + 3z).
 
-![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/tree/master/DSA%20-%20Recursion%201/Sample2.jpg?raw=true)
+![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/blob/master/DSA%20-%20Recursion%201/Sample2.png?raw=true)
 
 
 ## Medium – Difficulty: – Permutations
@@ -55,6 +55,6 @@ array of all permutations of those integers in no particular order.
 
 If the input array is empty, the function should return an empty array.
 
-![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/tree/master/DSA%20-%20Recursion%201/Sample3.jpg?raw=true)
+![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/tree/master/DSA%20-%20Recursion%201/Sample3.png?raw=true)
 
 
