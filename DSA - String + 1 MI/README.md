@@ -7,6 +7,8 @@ representing whether the string is a palindrome. A palindrome is defined as a
 string that's written the same forward and backward. Note that single-character
 strings are palindromes.
 
+![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/blob/master/DSA%20-%20String%20%2B%201%20MI/A.png?raw=true)
+
 **Hint:**
 
 Start by building the input string in reverse order and comparing this newly built
@@ -29,6 +31,8 @@ representing a key, write a function that returns a new string obtained by
 shifting every letter in the input string by k positions in the alphabet, where k
 is the key. Note that letters should "wrap" around the alphabet; in other
 words, the letter z shifted by one returns the letter a**
+
+![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/blob/master/DSA%20-%20String%20%2B%201%20MI/B.png?raw=true)
 
 **Hint:**
 
@@ -65,6 +69,8 @@ encoded as "12A", since this string can be decoded as either "AAAAAAAAAAAA"
 or "1AA". Thus, long runs (runs of 10 or more characters) should be encoded in
 a split fashion; the aforementioned run should be encoded as "9A3A".
 
+![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/blob/master/DSA%20-%20String%20%2B%201%20MI/C.png?raw=true)
+
 **Hint:**
 
 Traverse the input string and count the length of each run. As you traverse the
@@ -93,6 +99,8 @@ characters = "abcabc" and document = "aabbccc" you cannot generate the
 document because you're missing one c. The document that you need to
 create may contain any characters, including special characters, capital letters,
 numbers, and spaces. Note: you can always generate the empty string ("").**
+
+![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/blob/master/DSA%20-%20String%20%2B%201%20MI/D.png?raw=true)
 
 **Hint:**
 
@@ -133,6 +141,8 @@ repeating character is the first character in a string that occurs only once. If
 input string doesn't have any non-repeating characters, your function should
 return - 1.
 
+![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/blob/master/DSA%20-%20String%20%2B%201%20MI/E.png?raw=true)
+
 
 **Hint:**
 
@@ -165,6 +175,8 @@ together. Both matrices will be sparse, meaning that most of their elements will
 be zero. Take advantage of that to reduce the number of total computations
 that your function performs. If the matrices can't be multiplied together, your
 function should return [[]].
+
+![alt text](https://github.com/Suryansh555/ARTH-Daily-Code/blob/master/DSA%20-%20String%20%2B%201%20MI/F.png?raw=true)
 
 
 **Hint:**
